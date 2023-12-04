@@ -25,3 +25,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# Workaround taken from https://github.com/jekyll/jekyll/issues/8523
+gem "webrick"
