@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* PhD, Technical University of Munich, in progress
-* MSci Physics, University of Cambridge, 2015
-* BA Natural Sciences, University of Cambridge, 2014
+* **PhD**, *Technical University of Munich*, in progress
+* **MSci Physics**, *University of Cambridge*, 2015
+* **BA Natural Sciences**, *University of Cambridge*, 2014
 
 Work Experience
 ======
-* 2021-present: Research Assistant, Technical University of Munich
-* 2021-present: Guest Scientist, Potsdam Institute for Climate Impact Research
-* 2020-2021: Data Scientist, Planetly GmbH, Berlin, Germany
-* 2015-2018: Quantitative Trader, UBS Investment Bank, London, UK
+* 2021-present: **Research Assistant**, *Technical University of Munich*
+* 2021-present: **Guest Scientist**, *Potsdam Institute for Climate Impact Research*
+* 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany*
+* 2015-2018: **Quantitative Trader**, *UBS Investment Bank, London, UK*
   
 <!-- Skills
 ======
