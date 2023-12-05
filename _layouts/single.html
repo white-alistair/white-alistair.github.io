@@ -41,6 +41,7 @@ layout: default
         {% if page.collection == 'publications' %}
           <p>{{ page.authors }}</p>
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p><a href=" {{ page.paperurl }} "><u>Link to paper</u></a></p>
         {% endif %}
              
         {% if page.citation and page.paperurl %}
