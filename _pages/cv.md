@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * **PhD**, *Technical University of Munich*, in progress
 * **MSci Physics**, *University of Cambridge*, 2015
 * **BA Natural Sciences**, *University of Cambridge*, 2014
