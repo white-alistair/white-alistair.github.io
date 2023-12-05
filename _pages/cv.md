@@ -20,11 +20,13 @@ redirect_from:
 * 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany*
 * 2015-2018: **Quantitative Trader**, *UBS Investment Bank, London, UK*
 
-
 ## Publications
 <ol>{% for post in site.publications reversed %}
 <li><p>{{ post.citation | markdownify | remove: '<p>' | remove: '</p>' }}<b><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></b></p></li>
 {% endfor %}</ol>
+
+## Teaching
+- [Modeling and Machine Learning of Dynamical Systems in Julia](https://github.com/TUM-PIK-ESM/TUM-Dynamics-Lecture), *Technical University of Munich*, 2021-present
   
 <!-- Talks
 ======
