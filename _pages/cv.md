@@ -22,10 +22,10 @@ redirect_from:
 
 
 ## Publications
-<ul>{% for post in site.publications reversed %}
-<p>{{ post.citation | markdownify}}</p>
+<ol>{% for post in site.publications reversed %}
+<li><p>{{ post.citation | markdownify}}</p></li>
   <!-- {% include archive-single-cv.html %} -->
-{% endfor %}</ul>
+{% endfor %}</ol>
   
 <!-- Talks
 ======
