@@ -23,7 +23,7 @@ redirect_from:
 
 ## Publications
 <ol>{% for post in site.publications reversed %}
-<li><p>{{ post.citation | markdownify}}</p></li>
+<li><p>{{ post.citation | markdownify}} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></li>
   <!-- {% include archive-single-cv.html %} -->
 {% endfor %}</ol>
   
