@@ -23,7 +23,7 @@ redirect_from:
 
 ## Publications
 <ul>{% for post in site.publications %}
-  <p>{{ post.citation }}</p>
+<p>{{ post.citation | markdownify}}</p>
   <!-- {% include archive-single-cv.html %} -->
 {% endfor %}</ul>
   
