@@ -14,27 +14,17 @@ redirect_from:
 * **MSci Physics**, *University of Cambridge*, 2015
 * **BA Natural Sciences**, *University of Cambridge*, 2014
 
-Work Experience
-======
+## Work Experience
 * 2021-present: **Research Assistant**, *Technical University of Munich*
 * 2021-present: **Guest Scientist**, *Potsdam Institute for Climate Impact Research*
 * 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany*
 * 2015-2018: **Quantitative Trader**, *UBS Investment Bank, London, UK*
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+## Publications
+<ul>{% for post in site.publications %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
   
 <!-- Talks
 ======
