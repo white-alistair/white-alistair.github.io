@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I'm Alistair, a PhD student in the [Earth System Modeling group](https://www.asg.ed.tum.de/en/esm/home/) at the Technical University of Munich and in the [FutureLab AI in the Anthropocene](https://www.pik-potsdam.de/en/institute/futurelabs/artificial-intelligence-in-the-anthropocene/) at the Potsdam Institute for Climate Impact Research.
+<!-- Before the PhD, I studied physics at the University of Cambridge and spent several years working in quantitative finance and data science. -->
 
-I'm interested in developing machine learning methods for solving hard problems in physics and, especially, climate modeling.
-To that end, I'm especially interested in combining neural networks with differential equations.
+In my research I develop machine learning methods for solving hard problems in physics and, especially, climate modeling.
+In particular, I am interested in using physical priors to constrain deep learning models such as neural differential equations.
