@@ -12,4 +12,4 @@ I'm Alistair, a PhD student in the [Earth System Modeling group](https://www.asg
 <!-- Before the PhD, I studied physics at the University of Cambridge and spent several years working in quantitative finance and data science. -->
 
 In my research I develop machine learning methods for solving hard problems in physics and, especially, climate modeling.
-In particular, I am interested in using physical priors to constrain deep learning models such as neural differential equations.
+I am especially interested in using physical priors to constrain deep learning models such as neural differential equations.
