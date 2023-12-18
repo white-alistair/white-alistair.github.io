@@ -13,4 +13,13 @@ I'm Alistair, a PhD student in the [Earth System Modeling group](https://www.asg
 In my research I develop machine learning methods for solving hard problems in physics and, especially, climate modeling.
 I am particularly interested in using physical priors to constrain deep learning models such as neural differential equations.
 
-Here's a non-exhaustive list of my research interests: scientific machine learning, neural (ordinary) differential equations, hybrid modeling, differentiable programming, reservoir computing, symbolic regression, machine learning for dynamical systems, deep learning for weather and climate modeling.
+Here's a non-exhaustive list of things I'm interested in: 
+scientific machine learning, 
+neural differential equations, 
+reservoir computing, 
+machine learning for dynamical systems, 
+deep learning for weather and climate modeling, 
+hybrid modeling, 
+differentiable programming, 
+all kinds of physics-based inductive biases,
+diffusion models.
