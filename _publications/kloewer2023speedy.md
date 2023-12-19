@@ -1,5 +1,5 @@
 ---
-title: "SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility"
+title: "SpeedyWeather.jl: Reinventing Atmospheric General Circulation Models towards Interactivity and Extensibility"
 authors: "Milan Klöwer, Maximilian Gelbrecht, Daisuke Hotta, Justin Willmert, Simone Silvestri, Gregory L. Wagner, **Alistair White**, Sam Hatfield, Tom Kimpson, Navid C. Constantinou, and Chris Hill"
 collection: publications
 permalink: /publications/speedy
