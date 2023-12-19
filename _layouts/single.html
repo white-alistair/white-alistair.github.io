@@ -40,7 +40,11 @@ layout: default
 
         {% if page.collection == 'publications' %}
           <p>{{ page.authors | markdownify}}</p>
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.status == 'published' %}
+            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.status == 'submitted' %}
+            <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
           <p><a href=" {{ page.paperurl }} "><u>Link to paper</u></a></p>
         {% endif %}
              
