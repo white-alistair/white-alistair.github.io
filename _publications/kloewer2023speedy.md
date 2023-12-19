@@ -10,3 +10,4 @@ status: 'submitted'
 paperurl: 'https://github.com/SpeedyWeather/SpeedyWeather.jl/blob/mk/josspaper/docs/joss/paper.pdf'
 citation: 'Milan Klöwer, Maximilian Gelbrecht, Daisuke Hotta, Justin Willmert, Simone Silvestri, Gregory L. Wagner, **Alistair White**, Sam Hatfield, Tom Kimpson, Navid C. Constantinou, and Chris Hill. SpeedyWeather.jl: Reinventing atmospheric general circulation models towards interactivity and extensibility. Submitted to *Journal of Open Source Software*.'
 ---
+[SpeedyWeather.jl on GitHub](https://github.com/SpeedyWeather/SpeedyWeather.jl)
