@@ -6,6 +6,7 @@ permalink: /publications/differentiable
 excerpt: 'Earth system models (ESMs) are the primary tools for investigating future Earth system states at timescales from decades to centuries, especially in response to anthropogenic greenhouse gas release. State-of-the-art ESMs can reproduce the observational global mean temperature anomalies of the last 150 years. Nevertheless, ESMs need further improvements, most importantly regarding (i) the large spread in their estimates of climate sensitivity, i.e., the temperature response to increases in atmospheric greenhouse gases; (ii) the modeled spatial patterns of key variables such as temperature and precipitation; (iii) their representation of extreme weather events; and (iv) their representation of multistable Earth system components and the ability to predict associated abrupt transitions. Here, we argue that making ESMs automatically differentiable has a huge potential to advance ESMs...'
 date: 2023-06-02
 venue: 'Geoscientific Model Development'
+status: 'published'
 paperurl: 'https://gmd.copernicus.org/articles/16/3123/2023/'
 citation: 'Maximilian Gelbrecht, **Alistair White**, Sebastian Bathiany, and Niklas Boers. Differentiable programming for Earth system modeling. *Geoscientific Model Development*, 16(11):3123–3135, 2023.'
 ---

@@ -6,6 +6,7 @@ permalink: /publications/stabilization
 excerpt: 'Many successful methods to learn dynamical systems from data have recently been introduced. However, ensuring that the inferred dynamics preserve known constraints, such as conservation laws or restrictions on the allowed system states, remains challenging. We propose stabilized neural differential equations (SNDEs), a method to enforce arbitrary manifold constraints for neural differential equations...'
 date: 2023-12-01
 venue: 'Advances in Neural Information Processing Systems'
+status: 'published'
 paperurl: 'https://arxiv.org/abs/2306.09739'
 citation: '**Alistair White**, Niki Kilbertus, Maximilian Gelbrecht, and Niklas Boers. Stabilized neural differential equations for learning dynamics with explicit constraints. In *Advances in Neural Information Processing Systems*, 2023.'
 ---
