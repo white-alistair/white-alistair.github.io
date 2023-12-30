@@ -17,7 +17,7 @@ redirect_from:
 ## Work Experience
 * 2021-present: **Research Assistant**, *Technical University of Munich*
 * 2021-present: **Guest Scientist**, *Potsdam Institute for Climate Impact Research*
-* 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany*
+* 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany (acquired by OneTrust LLC)*
 * 2015-2018: **Quantitative Trader**, *UBS Investment Bank, London, UK*
 
 ## Publications
@@ -26,7 +26,7 @@ redirect_from:
 {% endfor %}</ol>
 
 ## Teaching
-- [Modeling and Machine Learning of Dynamical Systems in Julia](https://github.com/TUM-PIK-ESM/TUM-Dynamics-Lecture), *Technical University of Munich*, 2021-present
+- [Modeling and Machine Learning of Dynamical Systems in Julia](https://github.com/TUM-PIK-ESM/TUM-Dynamics-Lecture), Lecturer, *Technical University of Munich*, 2021-present
   
 <!-- Talks
 ======
