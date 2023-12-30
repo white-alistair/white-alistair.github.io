@@ -26,7 +26,7 @@ redirect_from:
 {% endfor %}</ol>
 
 ## Teaching
-- [Modeling and Machine Learning of Dynamical Systems in Julia](https://github.com/TUM-PIK-ESM/TUM-Dynamics-Lecture), Lecturer, *Technical University of Munich*, 2021-present
+- [Modeling and Machine Learning of Dynamical Systems in Julia](https://github.com/TUM-PIK-ESM/TUM-Dynamics-Lecture), Co-creator and Lecturer, *Technical University of Munich*, 2021-present
   
 <!-- Talks
 ======
