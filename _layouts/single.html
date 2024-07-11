@@ -43,7 +43,8 @@ layout: default
           {% if page.status == 'published' %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.status == 'submitted' %}
-            <p>Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <p>Preprint, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <!-- <p>Submitted to <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> -->
           {% endif %}
           <p><a href=" {{ page.paperurl }} ">Link to paper</a></p>
         {% endif %}
