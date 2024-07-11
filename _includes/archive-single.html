@@ -46,7 +46,8 @@
       {% if post.status == 'published' %}
         <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
       {% elsif post.status == 'submitted' %}
-        <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        <p>Preprint, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        <!-- <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
       {% endif %}
       
     {% elsif post.date %}
