@@ -13,7 +13,7 @@ I'm Alistair, a PhD student in the [Earth System Modeling group](https://www.asg
 In my research I develop machine learning methods for solving problems at the intersection of physics, numerical simulation, and machine learning.
 Motivated by applications to weather and climate modeling, I am particularly interested in using physics to constrain deep learning models such as neural differential equations and neural operators.
 
-Here's a non-exhaustive list of things I'm interested in: 
+Here's a non-exhaustive list of research interests: 
 scientific machine learning, 
 neural differential equations, 
 neural operators,
