@@ -29,6 +29,7 @@ redirect_from:
 - [Modeling and Machine Learning of Dynamical Systems in Julia](https://github.com/TUM-PIK-ESM/TUM-Dynamics-Lecture), Co-creator and Lecturer, *Technical University of Munich*, 2021-present
   
 ## Peer Review
+* NeurIPS 2024 Workshop on Data-Driven and Differentiable Simulations, Surrogates, and Solvers
 * ICML 2024 Workshop on Machine Learning for Earth System Modeling
 * ICLR 2024 Workshop on AI4DifferentialEquations in Science
   
