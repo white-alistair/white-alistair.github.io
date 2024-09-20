@@ -15,7 +15,7 @@ redirect_from:
 * **BA Natural Sciences**, *University of Cambridge*, 2014
 
 ## Work Experience
-* Sep 2024-present: **Visiting Student Researcher**, *California Institute of Technology (Caltech)*
+* Sep 2024-present: **Visiting Student Researcher**, *Caltech*
 * 2021-present: **Research Assistant**, *Technical University of Munich*
 * 2021-present: **Guest Scientist**, *Potsdam Institute for Climate Impact Research*
 * 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany (acquired by OneTrust LLC)*
