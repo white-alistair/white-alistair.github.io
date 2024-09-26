@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **PhD**, *Technical University of Munich*, in progress
+* **PhD**, *Technical University of Munich*, 2021-present
 * **MSci Physics**, *University of Cambridge*, 2015
 * **BA Natural Sciences**, *University of Cambridge*, 2014
 
