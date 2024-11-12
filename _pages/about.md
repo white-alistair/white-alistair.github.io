@@ -16,11 +16,10 @@ Motivated by applications to weather and climate modeling, I am particularly int
 
 Here's a non-exhaustive list of research interests: 
 scientific machine learning, 
+machine learning for weather and climate modeling, 
 neural differential equations, 
 neural operators,
-diffusion models,
-foundation models,
-weather and climate modeling,
+diffusion models, 
 reservoir computing, 
 machine learning for dynamical systems, 
 hybrid modeling, 
