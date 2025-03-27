@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I'm Alistair, a PhD student in the [Earth System Modeling group](https://www.asg.ed.tum.de/en/esm/home/) at the Technical University of Munich and the [FutureLab AI in the Anthropocene](https://www.pik-potsdam.de/en/institute/futurelabs/artificial-intelligence-in-the-anthropocene/) at the Potsdam Institute for Climate Impact Research.
-I am currently visiting the [Anima AI+Science Lab](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech.
+<!-- I am currently visiting the [Anima AI+Science Lab](http://tensorlab.cms.caltech.edu/users/anima/) at Caltech. -->
 
 In my research I develop methods for solving problems at the intersection of physics, numerical simulation, and machine learning.
 Motivated by applications to weather and climate modeling, I am particularly interested in using physics to constrain deep learning models such as neural differential equations and neural operators.
