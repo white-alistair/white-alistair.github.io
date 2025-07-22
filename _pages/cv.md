@@ -17,7 +17,7 @@ redirect_from:
 ## Work Experience
 * 2024: **Visiting Student Researcher**, *Caltech*
 * 2021-present: **Research Assistant**, *Technical University of Munich*
-* 2021-present: **Guest Scientist**, *Potsdam Institute for Climate Impact Research*
+* 2021-present: **Guest Scientist**, *Potsdam-Institut für Klimafolgenforschung*
 * 2020-2021: **Data Scientist**, *Planetly GmbH, Berlin, Germany (acquired by OneTrust LLC)*
 * 2015-2018: **Quantitative Trader**, *UBS Investment Bank, London, UK*
 

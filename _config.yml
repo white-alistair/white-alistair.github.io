@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alistair White"
   avatar           : "me_alt.jpg"
-  bio              : "PhD student at Technical University of Munich and Potsdam Institute for Climate Impact Research."
-  bio1             : "Machine learning for weather and climate modeling."
+  bio              : "PhD student at Technical University of Munich."
+  bio1             : "Machine learning for Earth system modeling."
   location         : "Berlin, Germany"
   employer         :
   pubmed           :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AlistairClimate"
+  twitter          : "alistair_white9"
   vine             :
   weibo            :
   xing             :
